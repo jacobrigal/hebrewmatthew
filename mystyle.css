@@ -1,5 +1,7 @@
-<style> 
-
+body {
+  margin-left: 30 px;
+  margin-right: 30 px; 
+}
 
 .header {
   background-color: #F1F1F1;
@@ -145,6 +147,10 @@ div.fixedleft {
 {
     color: red;
 }
-</style>
   
-
+footer {
+  background-color: black; 
+  font: white;
+  font-size: 20 px; 
+  font-family: impact; 
+}
