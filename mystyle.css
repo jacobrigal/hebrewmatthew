@@ -1,6 +1,6 @@
 body {
-  margin-left: 30 px;
-  margin-right: 30 px; 
+  margin-left: 50 px !important; 
+  margin-right: 50 px !important;
 }
 
 .header {
@@ -154,3 +154,13 @@ footer {
   font-size: 20 px; 
   font-family: impact; 
 }
+
+.lower {
+  top: 0;
+  height: 50%;
+  width: 100%;
+  background-color: pink;  
+  overflow:scroll;
+  position:relative
+}
+
